@@ -48,7 +48,7 @@ INSERT INTO appointments (patient_id, doctor_id, appointment_datetime, status, n
 (1, 1, '2025-05-15 10:00:00', 'Scheduled', 'Regular heart checkup'),
 (2, 2, '2025-05-16 09:30:00', 'Scheduled', 'Child vaccination follow-up');
 
-
+-- To Verify
 USE clinic_db;
 SELECT * FROM patients;
 SELECT * FROM patients;
